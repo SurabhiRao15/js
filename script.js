@@ -1,0 +1,16 @@
+let x;
+let y;
+x=Math.floor(Math.random()*101);
+y=Math.floor(Math.random()*51);
+sum=x+y;
+d=x-y;
+m=x*y;
+div=x/y;
+mo=x%y;
+console.log(x);
+console.log(y);
+console.log(sum);
+console.log(d);
+console.log(m);
+console.log(div);
+console.log(mo);
